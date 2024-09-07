@@ -21,7 +21,15 @@
 - Steam sales data analysis
 - ...
 
-<!-- #### 🎮 Fun Fact | 有趣的事实
-I once created a game entirely using procedurally generated content! -->
+<!-- #### 🎮 Fun Fact | 有趣的事实 -->
 
 #### 🌟 Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or ideas! 💫
+
+#### 👾 Repo naming
+For understanding the purpose of a repo at a glance
+- Normal Projects
+  - lowercase and dashes pattern (`some-project`) or domain (`dadahsueh.github.io`)
+- Unity Packages
+  - `com.author.package` or `net.author.package`
+- Unity Projects or Standalone Unity Packages
+  - PascalCase `MyUnityProject` or `SomeBigGist`
